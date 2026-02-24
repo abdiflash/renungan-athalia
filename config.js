@@ -3,7 +3,7 @@ const CONFIG = {
     SCHOOL_SITE: "edueasy.id",
     SCHOOL_URL: "https://edueasy.id",
 
-    SHEET_ID: "1ncjWQ9ZUAZXTppHcKKH5WrivrfINIrHnAO1BQOgp7EY",
+    SHEET_ID: "1UvENRv7Xf7OKQBKqNnRtWcRfYXJom-Rcke4hONT4SxY",
     SHEET_NAME: "renungan",
     SHEET_GID: "0",
 
