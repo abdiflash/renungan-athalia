@@ -3,7 +3,7 @@ const CONFIG = {
     SCHOOL_SITE: "www.sekolahathalia.sch.id",
     SCHOOL_URL: "https://sekolahathalia.sch.id/",
 
-    SHEET_ID: "1UvENRv7Xf7OKQBKqNnRtWcRfYXJom-Rcke4hONT4SxY",
+    SHEET_ID: "1UvENRv7Xf7OKQBKqNnRtWcRfYXJom-Rcke4hONT4SxY-demo",
     SHEET_NAME: "renungan",
     SHEET_GID: "0",
 
